@@ -4,7 +4,7 @@ I'm an SMK student majoring in Software Engineering (PPLG) based in Jepara, Indo
 Currently growing my skills in fullstack web development and mobile applications.
 
 ---
-<h1>MY SKILL</h1>
+<h1>My Skills</h1>
 
 ### 💻 Frontend
 
