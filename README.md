@@ -30,7 +30,9 @@
   <img src="https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
   <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933"/>
   <img src="https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Golang-000?style=for-the-badge&logo=go&logoColor=00ADD8"/>
 </p>
+
 
 <h3 align="center">📱 Mobile Development</h3>
 <p align="center">
